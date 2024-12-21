@@ -4,6 +4,7 @@
 
 Logic Craft is a 2D game in which your task is to assemble logic circuits.  The game has 6 levels so far, but it is in development.
 
+
 ## Controls:
 
 LEFT mouse click - seleect the block
@@ -14,9 +15,11 @@ key ESC or HOME button - leave to the menu
 
 key SPACE or NEXT button - go to the next level
 
+
 ## Bugs:
 
 If you find bugs, be sure to write about it in issues on GitHub
+
 
 ## Some materials taken from:
 
