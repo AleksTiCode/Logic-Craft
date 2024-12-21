@@ -1,5 +1,8 @@
 # Logic-Craft
 
+https://aleks-titan.itch.io/logic-craft
+
+
 ## Description:
 
 Logic Craft is a 2D game in which your task is to assemble logic circuits.  The game has 6 levels so far, but it is in development.
